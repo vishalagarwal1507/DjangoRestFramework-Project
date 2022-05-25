@@ -1,2 +1,8 @@
 venv
 __pycache__
+api/__pycache__
+products/__pycache__
+cfehome/__pycache__
+api/migrations/__pycache__
+products/migrations/__pycache__
+cfehome/migrations/__pycache__
